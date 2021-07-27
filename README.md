@@ -3,7 +3,7 @@
 
 ## Installation - IntelliJ
 
-> 1) Import to your intended project from source.
+> 1) Import contents of `out` (precompiled) to your intended project or include `src` (from source).
 
 ## Usage - GET
 ````java
