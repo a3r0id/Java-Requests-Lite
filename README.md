@@ -1,5 +1,6 @@
 # Java-Requests-Lite
  A lightweight, high-level HTTP requests module, inspired by Python Requests.
+ There is still a TON of work to be done.
 
 ## Installation - IntelliJ
 
