@@ -1,5 +1,5 @@
 # Java-Requests-Lite
- A lightweight, high-level HTTP requests module, inspired by Python Requests.
+ An extremely lightweight, high-level HTTP requests module, inspired by Python Requests.
  There is still a TON of work to be done.
  So far, I have only added GET, HEAD, POST HTTP methods but plan on adding PUT, STREAM & DELETE in the near future.
  Enjoy!
