@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Requests-Lite.iml" filepath="$PROJECT_DIR$/Java-Requests-Lite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jrl/jrl.iml" filepath="$PROJECT_DIR$/jrl/jrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jrl/jrl.iml" filepath="$PROJECT_DIR$/../jrl/jrl.iml" />
     </modules>
   </component>
 </project>
